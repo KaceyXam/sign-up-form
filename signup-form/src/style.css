@@ -162,6 +162,8 @@ body {
   .container {
     grid-template-columns: 1fr;
     width: min(90%, 600px);
+    height: auto;
+    margin-block: 3rem;
   }
 
   .call-to-action {
